@@ -8,6 +8,7 @@ public class SwatiClass
 	@Test
 	public void test() {
 		Reporter.log("Swati class has added",true);
+		Reporter.log("Swati is class has added",true);
 	}
 
 }
